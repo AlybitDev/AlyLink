@@ -1,12 +1,24 @@
 {
-  "favicon": "True", # Do you have a favicon? True or False
-  "favicon_path": "favicon.jpg", # Favicon path if you have one
-  "pfp": "True", # Do you have a profile picture? True or False
-  "pfp_path":  "pfp.jpg", # Profile picture path
-  "page_title": "Alybit", # Page title
-  "username": "Alybit", # Your username or real name
-  "bio_text": "Hello, I am Alybit!\uD83D\uDC4B\n\nI’m a developer with experience in web development and backend systems.", # Your bio
-  "github": "https://github.com/AlybitDev", # Your GitHub profile
-  "gravatar": "https://gravatar.com/cheerfulef4888500f", # Your Grafatar profile
-  "email": "alybit@alybit.dev" # Your Email
+  "favicon": "True",
+  "favicon_path": "favicon.jpg",
+  "pfp": "True",
+  "pfp_path":  "pfp.jpg",
+  "page_title": "Alybit",
+  "username": "Alybit",
+  "bio_text": "Hello, I am Alybit!\uD83D\uDC4B\n\nI’m a developer with experience in web development and backend systems.",
+  "github": "https://github.com/AlybitDev",
+  "gravatar": "https://gravatar.com/cheerfulef4888500f",
+  "email": "alybit@alybit.dev"
+  "_comments": {
+    "favicon": "Do you have a favicon? True or False",
+    "favicon_path": "Favicon path if you have one",
+    "pfp": "Do you have a profile picture? True or False",
+    "pfp_path": "Profile picture path",
+    "page_title": "Page title",
+    "username": "Your username or real name",
+    "bio_text": "Your bio",
+    "github": "Your GitHub profile",
+    "gravatar": "Your Gravatar profile",
+    "email": "Your Email"
+  }
 }
