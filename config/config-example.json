@@ -1,0 +1,12 @@
+{
+  "favicon": "True", # Do you have a favicon? True or False
+  "favicon_path": "favicon.jpg", # Favicon path if you have one
+  "pfp": "True", # Do you have a profile picture? True or False
+  "pfp_path":  "pfp.jpg", # Profile picture path
+  "page_title": "Alybit", # Page title
+  "username": "Alybit", # Your username or real name
+  "bio_text": "Hello, I am Alybit!\uD83D\uDC4B\n\nI’m a developer with experience in web development and backend systems.", # Your bio
+  "github": "https://github.com/AlybitDev", # Your GitHub profile
+  "gravatar": "https://gravatar.com/cheerfulef4888500f", # Your Grafatar profile
+  "email": "alybit@alybit.dev" # Your Email
+}
