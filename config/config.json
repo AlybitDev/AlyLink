@@ -1,0 +1,12 @@
+{
+  "favicon": "True",
+  "favicon_path": "html-syntax.jpg",
+  "pfp": "True",
+  "pfp_path":  "html-syntax.jpg",
+  "page_title": "Alybit",
+  "username": "Alybit",
+  "bio_text": "Hello, I am Alybit!\uD83D\uDC4B\n\nI’m a developer with experience in web development and backend systems.",
+  "github": "https://github.com/AlybitDev",
+  "gravatar": "https://gravatar.com/cheerfulef4888500f",
+  "email": "alybit@alybit.dev"
+}
