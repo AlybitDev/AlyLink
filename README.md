@@ -11,9 +11,9 @@ cd AlyLink
 ```
 pip install fastapi[standard]
 ```
-4. Configure the config.json file to your likings, there you can also find an example file.
-5. Run the program.
+3. Configure the config.json file to your likings, there you can also find an example file.
+4. Run the program.
 ```
 fastapi run main.py
 ```
-7. Access the WebUI on port 8000 in your browser.
+5. Access the WebUI on port 8000 in your browser.
