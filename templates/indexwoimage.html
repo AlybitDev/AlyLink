@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color: black;
+        }
+
+        .pfp {
+            width: 8vw;
+            height: 8vw;
+            border-radius: 50%;
+            margin: 1vh;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .name {
+            color: white;
+            font-size: 4vh;
+        }
+
+        .name-box {
+            text-align: center;
+            padding: 1vh;
+        }
+
+        .link-box {
+            width: 6vw;
+            font-size: 2vh;
+            margin: 10px;
+            text-align: center;
+            padding: 1vh;
+            border-radius: 15px;
+            background-color: rgba(144,144,144);
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .link-img {
+            width: 2vh;
+            height: 2vh;
+        }
+
+        .bio-box {
+            width: 25vw;
+            font-size: 2vh;
+            margin: 10px;
+            text-align: center;
+            padding: 1vh;
+            border-radius: 15px;
+            background-color: rgba(184,184,184);
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title> {{ page_title }} </title>
+</head>
+<body>
+<div class="container">
+    <div class="name-box">
+        <a class="name">{{ username }}</a>
+    </div>
+
+    <div class="bio-box">
+        <a class="bio-text">{{ bio_text }}</a>
+    </div>
+
+    <a href="{{ github }}">
+    <div class="link-box">
+        <img class="link-img" src="icons/github.png">Github
+    </div>
+    </a>
+
+    <a href="{{ gravatar }}">
+    <div class="link-box">
+        <img class="link-img" src="icons/gravatar.png">Gravatar
+    </div>
+    </a>
+
+    <a href="mailto:{{ email }}">
+    <div class="link-box">
+        <img class="link-img" src="icons/email.png">Email
+    </div>
+    </a>
+</div>
+</body>
+</html>
