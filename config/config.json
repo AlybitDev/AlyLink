@@ -1,0 +1,24 @@
+{
+  "favicon": "<favicon>",
+  "favicon_path": "<favicon_path>",
+  "pfp": "<pfp>",
+  "pfp_path":  "<pfp_path>",
+  "page_title": "<page_title>",
+  "username": "<username>",
+  "bio_text": "<bio_text>",
+  "github": "<github>",
+  "gravatar": "<gravatar>",
+  "email": "<email>"
+  "_comments": {
+    "favicon": "Do you have a favicon? True or False",
+    "favicon_path": "Favicon path if you have one",
+    "pfp": "Do you have a profile picture? True or False",
+    "pfp_path": "Profile picture path",
+    "page_title": "Page title",
+    "username": "Your username or real name",
+    "bio_text": "Your bio",
+    "github": "Your GitHub profile",
+    "gravatar": "Your Gravatar profile",
+    "email": "Your Email"
+  }
+}
