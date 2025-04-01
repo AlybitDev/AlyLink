@@ -7,9 +7,9 @@ Linktree alternative in python with fastapi.
 gh repo clone AlybitDev/AlyLink
 cd AlyLink
 ```
-2. Install the needed dependencies.
+2. Install the needed dependencies.<br>
 ```pip install fastapi[standard]```
 3. Configure the config.json file to your likings, there you can also find an example file.
-4. Run the program.
+4. Run the program.<br>
 ```fastapi run main.py```
 5. Access the WebUI on port 8000 in your browser.
